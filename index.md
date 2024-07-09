@@ -1,3 +1,13 @@
++++
+title =  "Signal Desktop Installation Script"
+description = "Install Signal on Debian Devices"
+author = "Justin Napolitano"
+tags = ["linux","ubuntu"]
+categories = ['projects']
+images = ["images/feature-image.png"]
+date = "2024-07-09"
++++
+
 
 # Signal Desktop Installation Script
 
