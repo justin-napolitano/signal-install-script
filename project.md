@@ -1,20 +1,30 @@
 ---
 slug: github-signal-install-script
 id: github-signal-install-script
-title: Signal Desktop Installation Script
+title: Automated Signal Desktop Installation for Debian Systems
 repo: justin-napolitano/signal-install-script
 githubUrl: https://github.com/justin-napolitano/signal-install-script
 generatedAt: '2025-11-24T21:36:20.332Z'
 source: github-auto
 summary: >-
-  A shell script to automate the installation of Signal Desktop on 64-bit
-  Debian-based Linux systems such as Ubuntu and Mint. This script handles the
-  addition of the official Signal repository and installs the application with
-  minimal user intervention.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A shell script that automates the installation of Signal Desktop on 64-bit
+  Debian-based Linux systems like Ubuntu and Mint.
+tags:
+  - bash
+  - debian
+  - ubuntu
+  - signal
+  - apt
+  - scripting
+  - linux
+seoPrimaryKeyword: signal desktop installation script
+seoSecondaryKeywords:
+  - debian package management
+  - ubuntu signal install
+  - bash automation
+  - linux installation script
+  - signal repository setup
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
